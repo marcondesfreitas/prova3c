@@ -7,7 +7,19 @@
     top: 30vh;
     width: 20%;
     position: relative;
-    left: 40%;
+    left: 20%;
+    height: 40vh;
+    align-items: center;
+    background-color: blue;
+    border: none;
+}
+
+
+.fiel2{
+    top: 30vh;
+    width: 20%;
+    position: absolute;
+    left: 60%;
     height: 40vh;
     align-items: center;
     background-color: blue;
@@ -29,3 +41,6 @@ h1{
     text-align: center;
 }
 
+.a{
+    color: wheat;
+}
